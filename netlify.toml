@@ -11,3 +11,8 @@
 
   [plugins.inputs]
     enable = false
+    
+[[redirects]]
+  from = "/"
+  to = "https://upez.framer.website"
+  status = 301
